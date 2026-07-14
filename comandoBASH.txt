@@ -1,1 +1,11 @@
 Olá Mundo!
+
+ls -> lista do que tem no diretório 
+cd -> muda o diretório 
+pwd -> Onde eu estou 
+ls -a -> arquivos ocultos 
+mkdir -> criar nova pasta 
+cat -> olhar o que tem no arquivo 
+rm -> excluir arquivos/diretórios 
+rm -rf -> TOMAR CUIDADO COM O RF ELE EXCLUI SEM PEDIR PERMIÇÃO 
+nano -> editor de texto
