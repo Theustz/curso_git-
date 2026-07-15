@@ -10,4 +10,7 @@ rm -> excluir arquivos/diretórios
 rm -rf -> TOMAR CUIDADO COM O RF ELE EXCLUI SEM PEDIR PERMIÇÃO 
 nano -> editor de texto
 
+
 U.U >.<
+
+
