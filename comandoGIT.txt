@@ -8,3 +8,4 @@ git reset -> altera o estado para não commit
 git checkout -b -> cria uma copia do projeto 
 ps: -b é para criar um branch nova se quiser so navegar entre elas apenas o git checkout
 git branch -> para olhar quantas copias tem 
+git branch -D -> para excluir branch sem ter que autorizar 
